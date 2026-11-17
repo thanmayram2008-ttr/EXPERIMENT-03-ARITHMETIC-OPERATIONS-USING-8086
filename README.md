@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE:17-11-26
+## NAME:THANMAY RAM
+## ROLL NUMBER:RA2511030010340
+## DEPARTMENT:NWC
 
 ---
 
@@ -202,6 +202,7 @@ HLT
 ### FIGURE-01: ADDITION OUTPUT
 
 Upload the addition program execution screenshot here.
+<img width="1412" height="915" alt="image" src="https://github.com/user-attachments/assets/891b9e49-3326-4510-885e-9e03b676aba7" />
 
 ![Addition Output](img/addition.png)
 
